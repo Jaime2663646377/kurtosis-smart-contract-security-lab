@@ -1,0 +1,13 @@
+--- VERSIONES DE HERRAMIENTAS ---
+Docker version 29.1.3, build 29.1.3-0ubuntu3~24.04.2
+CLI Version:   1.15.2
+
+To see the engine version (provided it is running): kurtosis engine status
+forge Version: 1.7.1
+Commit SHA: 4072e48705af9d93e3c0f6e29e93b5e9a40caed8
+Build Timestamp: 2026-05-08T07:50:55.527285345Z (1778226655)
+Build Profile: dist
+cast Version: 1.7.1
+Commit SHA: 4072e48705af9d93e3c0f6e29e93b5e9a40caed8
+Build Timestamp: 2026-05-08T07:50:55.527285345Z (1778226655)
+Build Profile: dist
