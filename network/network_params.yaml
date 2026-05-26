@@ -1,0 +1,8 @@
+participants:
+  - el_type: geth
+    cl_type: lighthouse
+    count: 1
+network_params:
+  network_id: "3151908"
+additional_services:
+  - dora
